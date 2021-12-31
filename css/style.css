@@ -12,7 +12,7 @@ body {
     font-family: Arial, sans-serif;
 }
 nav {
-    background-color: darkkhaki;
+    background-color:  rgb(203, 196, 104);
 }
 
 nav ul {
@@ -62,4 +62,14 @@ main h1 {
 main article {
     display: flex;
     margin-bottom: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+    padding: 20px;
+    background-color: rgb(203, 196, 104);
+    color:  rgb(72, 70, 39);
+    text-align: center;
 }
