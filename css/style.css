@@ -40,7 +40,14 @@ nav a {
 }
 .promo img {
     position: absolute;
-    top: -20px;
+    top: -45px;
     left: 80px;
 
+}
+
+.promo h1 {
+    position: absolute;
+    right: 100px;
+    bottom: 110px;
+    color: white;
 }
